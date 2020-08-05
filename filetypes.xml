@@ -6,6 +6,7 @@
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="box" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
