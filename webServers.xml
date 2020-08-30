@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="02e2d044-452d-4a20-bd1b-2f12dbbaab69" name="LOLIPOP" url="http://ftp.lolipop.jp">
+        <fileTransfer accessType="FTPS" host="ftp.lolipop.jp" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
