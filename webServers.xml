@@ -8,6 +8,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="ced5d977-146f-417a-9b3d-f5e0961d6e2d" name="parco.jp" url="http://localhost:1255">
+        <fileTransfer mountedRoot="$USER_HOME$/Dropbox/0250_SiteData/www/parco.jp" accessType="MOUNT" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
