@@ -4,6 +4,7 @@
       <mapping ext="inc" type="HTML" />
       <mapping pattern="README.mtd" type="Markdown" />
       <mapping ext="php" type="PHP" />
+      <mapping pattern="ReadMe" type="PLAIN_TEXT" />
       <mapping pattern="htaccess" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
