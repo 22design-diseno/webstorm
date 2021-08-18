@@ -11,6 +11,7 @@
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="box" type="PLAIN_TEXT" />
       <removed_mapping ext="tsv" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PHP" />
     </extensionMap>
   </component>
 </application>
